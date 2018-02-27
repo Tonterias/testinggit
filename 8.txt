@@ -1,9 +1,9 @@
 1
-2
+2NO conflict
 3
 4
 5conflicting branch3 mod 22.56 se queda el ultimo
-6
+6CONFLICT borrar este
 7
 8
 9
